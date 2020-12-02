@@ -1,0 +1,23 @@
+PANDAS-CHALLENGE
+HeroesOfPymoli
+***all work done in jupyter HeroesOfPymoli_starter file provided***
+
+Three Observable Trends:
+	1. In the purchase analysis by gender, I found that males were more likely to make more than one in-game purchase,
+		but females spent more money per purchase, on average. However, most people in general only made one
+		in-game purchase. There were a total of 780 purchases between 576 players. The game had a total revenue of 
+		$2,379.77 from all in-game purchases, with an average of $3.05 spent per purchase.
+	
+	2. Based on total in-game purchases, 67% of this game's player base consists of players between the ages of 16-25.
+		Nearly 42% of purchases came from the 21-25 age group, with 25% coming from the 16-20 age group. 
+		All top 5 spenders were males from ages 20 to 26.
+	
+	3. The most popular in-game item, Final Critic, was purchased by 13 different players from multiple age groups; 
+		the youngest purchaser is 7 years old, and the oldest is 39. Two of the top 5 most popular items, Final Critic
+		and Persuasion, had two different listed prices. This is likely due to the possibility of the items being 
+		on sale at one point. However, most purchasers did not pick up these items at the lower price, so this did 
+		not seem to affect the popularity or purchase frequency of the items. All top 5 most popular items were 
+		also the top 5 most profitable due to their purchase counts. The only exception is Persuasion, which is
+		listed as fourth most popular but fifth most profitable. This is likely due to it's low price, which dropped
+		it to fifth on the most profitable list despite it's 9 purchases (same purchase count as Nirvana 
+		and Extraction).
